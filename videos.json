@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "updated_at": "2025-12-21T00:00:00Z",
+  "items": [
+    {
+      "id": "v001",
+      "niche": "BEST NICHE",
+      "title": "Video 01",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": true,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_01/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_01"
+    },
+    {
+      "id": "v002",
+      "niche": "BEST NICHE",
+      "title": "Video 02",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_02/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_02"
+    },
+    {
+      "id": "v003",
+      "niche": "BEST NICHE",
+      "title": "Video 03",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_03/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_03"
+    },
+    {
+      "id": "v004",
+      "niche": "BEST NICHE",
+      "title": "Video 04",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_04/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_04"
+    },
+    {
+      "id": "v005",
+      "niche": "BEST NICHE",
+      "title": "Video 05",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_05/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_05"
+    },
+    {
+      "id": "v006",
+      "niche": "BEST NICHE",
+      "title": "Video 06",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_06/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_06"
+    },
+    {
+      "id": "v007",
+      "niche": "BEST NICHE",
+      "title": "Video 07",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_07/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_07"
+    },
+    {
+      "id": "v008",
+      "niche": "BEST NICHE",
+      "title": "Video 08",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_08/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_08"
+    },
+    {
+      "id": "v009",
+      "niche": "BEST NICHE",
+      "title": "Video 09",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_09/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_09"
+    },
+    {
+      "id": "v010",
+      "niche": "BEST NICHE",
+      "title": "Video 10",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_10/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_10"
+    },
+
+    {
+      "id": "v011",
+      "niche": "BEST NICHE",
+      "title": "Video 11",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_11/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_11"
+    },
+    {
+      "id": "v012",
+      "niche": "BEST NICHE",
+      "title": "Video 12",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_12/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_12"
+    },
+    {
+      "id": "v013",
+      "niche": "BEST NICHE",
+      "title": "Video 13",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_13/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_13"
+    },
+    {
+      "id": "v014",
+      "niche": "BEST NICHE",
+      "title": "Video 14",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_14/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_14"
+    },
+    {
+      "id": "v015",
+      "niche": "BEST NICHE",
+      "title": "Video 15",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_15/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_15"
+    },
+    {
+      "id": "v016",
+      "niche": "BEST NICHE",
+      "title": "Video 16",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_16/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_16"
+    },
+    {
+      "id": "v017",
+      "niche": "BEST NICHE",
+      "title": "Video 17",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_17/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_17"
+    },
+    {
+      "id": "v018",
+      "niche": "BEST NICHE",
+      "title": "Video 18",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_18/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_18"
+    },
+    {
+      "id": "v019",
+      "niche": "BEST NICHE",
+      "title": "Video 19",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_19/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_19"
+    },
+    {
+      "id": "v020",
+      "niche": "BEST NICHE",
+      "title": "Video 20",
+      "description": "Short description here...",
+      "author": "Your Channel",
+      "badge": "SUGGESTION",
+      "is_live": false,
+      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_20/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID_20"
+    }
+  ]
+}
