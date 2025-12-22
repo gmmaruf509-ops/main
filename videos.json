@@ -61,19 +61,19 @@
       "id": "v006",
       "niche": "BEST NICHE",
       "title": "Video 06",
-      "description": "Short description here...",
+      "description": "এই ভিডিওগুলো দেখতে পারেন",
       "author": "Your Channel",
       "badge": "SUGGESTION",
       "is_live": false,
       "thumbnail": "https://img.youtube.com/vi/SJuQ_d2M6pM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_06"
+      "url": "https://www.youtube.com/watch?v=mPO6Dn1BZgo"
     },
     {
       "id": "v007",
       "niche": "BEST NICHE",
       "title": "Video 07",
-      "description": "Short description here...",
-      "author": "Your Channel",
+      "description": "Gold AI Luxury Mansion Compilation",
+      "author": "Gold AI Luxury Mansion Compilation",
       "badge": "SUGGESTION",
       "is_live": false,
       "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_07/hqdefault.jpg",
@@ -225,6 +225,7 @@
     }
   ]
 }
+
 
 
 
